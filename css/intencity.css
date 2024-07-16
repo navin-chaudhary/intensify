@@ -1,0 +1,289 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 70px;
+    width: 100%;
+   
+}
+
+.header .left{
+   width: 33%;
+   margin-top: 30px;
+   float: left;
+   color: grey;
+   font-size: 30px;
+   text-align: left;
+   position: relative;
+   top: 10px; 
+   left: 10px;
+}
+
+.header .center{
+    margin-top: 30px;
+
+    width: 33%;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    color: indianred;
+    position: relative;
+    top: 10px; 
+    left: 10px;
+ }
+
+ .header .right{
+    margin-top: 30px;
+
+    width: 33%;
+    float: left;
+    text-align: right;
+    
+ }
+ 
+.header button{
+    width: 100px;
+    height: 35px;
+    background: none;
+    position: relative;
+    top: 17px; 
+    right: 10px;
+    border: 1px solid grey;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+a{
+     text-decoration: none;
+     color: indianred;
+ }
+
+ i{
+     color: grey;
+ }
+
+ .banner{
+     width: 100%;
+     height: 650px;
+     background-image: url(../img/banner.jpg);
+     text-align: center;
+     margin-bottom: 80px;
+     margin-top: 0px;
+ }
+
+ .banner h3{
+     font-size: 60px;
+     padding-top: 200px;
+     color: #25a2c3;
+ }
+
+ .banner p{
+     font-size: 11px;
+     position: relative;
+     top: -40px;
+     font-weight: 300;
+     letter-spacing: 1px;
+     line-height: 30px;
+ }
+
+ .banner button{
+     width: 150px;
+     height: 45px;
+     border: none;
+     color: white;
+     background-color: tomato;
+     border-radius: 5px;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 15px;
+     font-weight: 600;
+ }
+
+ .lt{
+     float: left;
+     text-align: right;
+     margin-left: 50px;
+     margin-top: 25px;
+     line-height: 30px;
+ }
+
+ .lt h3{
+    font-size: 22px;
+    font-weight: 600;
+    color: #25a2c3;
+}
+
+
+ .cnt{
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+
+}
+
+.cnt img{
+    border-radius: 100%;
+    align-items: center;
+}
+
+.rgt{
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    line-height: 30px;
+
+}
+
+.rgt h3{
+    font-size: 22px;
+    font-weight: 600;
+    color: #25a2c3;
+}
+
+
+ .mid{
+     width: 100%;
+     height: 400px;
+     background-color: tomato;
+     clear: both;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 90px;
+
+ }
+
+ .mid h3{
+     padding-top: 100px;
+     font-size: 35px;
+ }
+
+ .mid p{
+     font-size: 12px;
+     letter-spacing: 1px;
+     font-weight: 100;
+     padding-bottom: 40px;
+ }
+
+
+ .post{
+     width: 1200px;
+     margin: 0 auto;
+ }
+
+.p1{
+    width: 350px;
+    height: 320px;
+    border: 1px groove  rgb(228, 228, 228);
+    float: left;
+    margin-bottom: 100px;
+
+}
+
+.p1 img{
+    width: 350px;
+    height: 150px;
+
+
+}
+
+.p1 h3{
+    padding-left: 20px;
+    color: #25a2c3;
+
+}
+
+.p1 p{
+    padding: 0px 20px 0px 20px;
+    font-size: 13px;
+}
+
+/*Dkjfkdsbkjb*/
+
+.p2{
+    width: 350px;
+    height: 320px;
+    border: 1px groove  rgb(228, 228, 228);
+    float: left;
+    margin-left: 70px;
+    
+}
+
+.p2 img{
+    width: 350px;
+    height: 150px;
+
+}
+
+.p2 h3{
+    padding-left: 20px;
+    color: #25a2c3;
+
+}
+
+.p2 p{
+    padding: 0px 20px 0px 20px;
+    font-size: 13px;
+}
+
+/*jdsgfjsg*/
+
+.p3{
+    width: 350px;
+    height: 320px;
+    border: 1px groove  rgb(228, 228, 228);
+    float: right;
+    
+}
+
+.p3 img{
+    width: 350px;
+    height: 150px;
+
+}
+
+.p3 h3{
+    padding-left: 20px;
+    color: #25a2c3;
+
+}
+
+.p3 p{
+    padding: 0px 20px 0px 20px;
+    font-size: 13px;
+}
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #25a2c3;
+    clear: both;
+   text-align: center;
+   color: #fff;
+   margin-top: 90px;
+
+}
+.ftr{
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+.ftr h3{
+    padding-top: 150px;
+    font-size: 40px;
+   
+}
+
+.ftr p{
+    float: left;
+    margin-left: 120px;
+    letter-spacing: 3px;
+  
+}
+
+span{
+    color: chocolate;
+}
